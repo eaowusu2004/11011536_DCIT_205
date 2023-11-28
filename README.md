@@ -1,4 +1,4 @@
-<img width="1440" alt="Screenshot 2023-11-28 at 10 02 43 PM" src="https://github.com/eaowusu2004/11011536_DCIT_205/assets/144255174/55855827-1982-47ba-8878-2fe535418f74"># Computer Science Department Website Project
+# Computer Science Department Website Project
 Welcome to the Computer Science Department Website project! This project is a simple HTML and CSS website created for the Computer Science department. The goal is to provide a basic yet functional website that can be used to showcase information about the department, its faculty, courses, and any other relevant details.
 
 # Getting Started
@@ -21,6 +21,8 @@ Open the index.html file in your preferred web browser to view the website.
 
 <img width="1440" alt="Screenshot 2023-11-28 at 10 00 44 PM" src="https://github.com/eaowusu2004/11011536_DCIT_205/assets/144255174/343b15e1-f8c5-435e-8a13-c27807661633">
 e6-ac6c-45d7-afad-4ea2531bbc1e">
+
+<img width="1440" alt="Screenshot 2023-11-28 at 10 02 43 PM" src="https://github.com/eaowusu2004/11011536_DCIT_205/assets/144255174/55855827-1982-47ba-8878-2fe535418f74">#
 
 <img width="1440" alt="Screenshot 2023-11-28 at 10 00 47 PM" src="https://github.com/eaowusu2004/11011536_DCIT_205/assets/144255174/ec887abc-0b76-44a8-a53a-20857b46d70d">
 
