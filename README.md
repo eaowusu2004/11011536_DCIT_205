@@ -44,4 +44,11 @@ e6-ac6c-45d7-afad-4ea2531bbc1e">
 
 <img width="1440" alt="Screenshot 2023-11-28 at 10 03 28 PM" src="https://github.com/eaowusu2004/11011536_DCIT_205/assets/144255174/50191e08-7331-47ed-a892-dc01fd36163c">
 
+<img width="1440" alt="Screenshot 2023-11-28 at 10 14 22 PM" src="https://github.com/eaowusu2004/11011536_DCIT_205/assets/144255174/f1b629a8-907a-4513-b570-c37794f46447">
+
+<img width="1440" alt="Screenshot 2023-11-28 at 10 14 27 PM" src="https://github.com/eaowusu2004/11011536_DCIT_205/assets/144255174/3b3ebd29-a04f-4b7e-9b28-52af6c09fa0b">
+
+<img width="1440" alt="Screenshot 2023-11-28 at 10 14 18 PM" src="https://github.com/eaowusu2004/11011536_DCIT_205/assets/144255174/c8fdce79-1df8-483c-9184-2825b2a99e89">
+
+
 
